@@ -1,0 +1,6 @@
+[INFO ] 2024-06-01 22:18:14.171 [main] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-01 22:18:21.199 [main] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-01 22:18:33.431 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-01 22:31:39.032 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-01 22:31:46.453 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-01 22:31:57.217 [main] ExntentWithTestNG - Error occured

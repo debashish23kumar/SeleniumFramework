@@ -1,0 +1,41 @@
+[INFO ] 2024-06-02 00:13:45.914 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 00:13:52.736 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[WARN ] 2024-06-02 16:30:22.728 [main] ZipPackage - Error in zip file excelFiles/data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-06-02 16:34:27.033 [main] ZipPackage - Error in zip file excelFiles/data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-06-02 16:36:30.223 [main] ZipPackage - Error in zip file excelFiles/data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-06-02 16:42:44.611 [main] ZipPackage - Error in zip file /Users/debashish/Documents/Selenium/SeleniumJavaFramework/excelFiles/data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-06-02 16:44:47.082 [main] ZipPackage - Error in zip file excelFiles/data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-06-02 16:46:50.698 [main] ZipPackage - Error in zip file excelFiles/data.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[WARN ] 2024-06-02 20:17:07.451 [main] ZipPackage - Error in zip file excelFiles/data1.xlsx - falling back to stream processing (i.e. ignoring zip central directory)
+[INFO ] 2024-06-02 20:45:58.090 [main] DataProviderExcel - Username is entered in the login page
+[INFO ] 2024-06-02 20:56:21.036 [main] DataProviderExcel - Username is entered in the login page
+[INFO ] 2024-06-02 21:02:10.408 [main] DataProviderExcel - Username is entered in the login page
+[INFO ] 2024-06-02 21:46:46.384 [main] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 21:46:53.166 [main] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 21:47:05.228 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 21:51:02.576 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 21:51:09.350 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 21:51:18.067 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:00:39.788 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:00:46.407 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:00:57.379 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:01:29.027 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:01:37.422 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:01:37.712 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:09:30.960 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:09:38.858 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:09:39.463 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:12:33.863 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:12:42.478 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:12:42.797 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:13:13.035 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[ERROR] 2024-06-02 22:13:24.262 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:14:06.185 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:14:14.669 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:14:14.944 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:14:29.113 [TestNG-test-Test1-1] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:14:36.173 [TestNG-test-Test1-1] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:14:36.486 [main] ExntentWithTestNG - Error occured
+[INFO ] 2024-06-02 22:58:31.948 [main] ExntentWithTestNG - This Test will validate the google search page and  text to search 
+[INFO ] 2024-06-02 22:58:38.495 [main] ExntentWithTestNG - Test1 is completed
+[ERROR] 2024-06-02 22:58:48.327 [main] ExntentWithTestNG - Error occured
